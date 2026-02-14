@@ -1,0 +1,22 @@
+{
+  "name": "base16-dark-ashes-kelly-theme",
+  "displayName": "Base16 Dark Ashes Kelly",
+  "description": "Base16 Dark Ashes clone with custom editor background tuning.",
+  "version": "0.0.1",
+  "publisher": "kelly-local",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Base16 Dark Ashes (Kelly)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/base16-dark-ashes-kelly-color-theme.json"
+      }
+    ]
+  }
+}
