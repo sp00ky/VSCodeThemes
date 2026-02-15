@@ -1,0 +1,15 @@
+<idea-plugin>
+  <id>com.kelly.base16.darkashes.rider.theme</id>
+  <name>Base16 Dark Ashes Kelly Rider Theme</name>
+  <version>0.0.2</version>
+  <vendor>kelly-local</vendor>
+  <description><![CDATA[
+    Base16 Dark Ashes (Kelly) for JetBrains Rider.
+    Includes matching IDE UI and editor color scheme.
+  ]]></description>
+  <depends>com.intellij.modules.platform</depends>
+  <idea-version since-build="241" />
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="41890620-df4d-43b0-b8a5-afe4522f5a90" path="/themes/base16-dark-ashes-kelly-rider.theme.json" />
+  </extensions>
+</idea-plugin>
