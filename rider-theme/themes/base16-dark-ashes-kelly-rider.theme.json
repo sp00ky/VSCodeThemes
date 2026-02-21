@@ -29,7 +29,7 @@
     "inputBackground": "#1C2023",
     "borderColor": "#393F45",
     "separatorColor": "#747C84",
-    "statusBarBackground": "#AE95C7",
+    "statusBarBackground": "#393F45",
     "statusBarForeground": "#F3F4F5",
     "titleBarActiveBackground": "#1C2023",
     "titleBarInactiveBackground": "#393F45",
